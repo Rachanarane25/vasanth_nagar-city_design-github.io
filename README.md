@@ -38,18 +38,4 @@ Graph algorithms like **shortest path** and **spanning trees** are critical for 
 #### Algorithm Design Techniques
 Techniques such as **greedy algorithms**, **divide and conquer**, and **dynamic programming** help solve problems efficiently. Knowing when to use each method is key to optimal problem-solving.
 
-### Reflections on Problem-Solving
-
-- **Efficiency**: I choose the most efficient approach by considering time and space complexity.
-- **Balancing Constraints**: I balance conflicting constraints by prioritizing based on the project’s goals.
-- **Evaluating Effectiveness**: Solutions are evaluated based on their ability to meet goals and perform efficiently.
-- **Adapting Solutions**: Solutions are adapted based on evolving challenges or requirements.
-- **Identifying Patterns**: Recognizing patterns in data helps in developing effective solutions.
-- **Prioritizing Simplicity**: Simplicity is prioritized when optimization is unnecessary or too complex.
-- **Breaking Down Problems**: Decomposing problems makes them more manageable and insightful.
-- **Trade-offs**: Decisions often involve balancing time, space, and complexity.
-- **Addressing Limitations**: Identifying and improving weaknesses is essential for robust solutions.
-- **Contextual Application**: Applying knowledge from one domain to another improves problem-solving skills.
-- **Innovation vs. Tested Solutions**: I balance innovation with tried solutions based on the problem’s needs.
-
 This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city design.
