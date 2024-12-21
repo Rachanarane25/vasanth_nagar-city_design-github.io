@@ -80,6 +80,14 @@ Our team has identified such crucial issued with the idea of adressing these pro
    **Portfolio**: [Tap!](https://sahana8866.github.io/rsahana.github.io/)
 
 2. **Rachana P Rane**:  
+   i.Job scheduling in cities 
+   ii.Efficient cable network management 
+   iii.Emergency evacuation processs
+   iv.Optimal delivery route
+   v.Optimization of road tool booth  
+   **Portfolio**: [Insert link or description here]
+
+4. **Nishita P Jahagirdhar**:  
    i. Example case 1.  
    ii. Example case 2.  
    iii. Example case 3.  
@@ -87,15 +95,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
    v. Example case 5.  
    **Portfolio**: [Insert link or description here]
 
-3. **Nishita P Jahagirdhar**:  
-   i. Example case 1.  
-   ii. Example case 2.  
-   iii. Example case 3.  
-   iv. Example case 4.  
-   v. Example case 5.  
-   **Portfolio**: [Insert link or description here]
-
-4. **Tanushree Manjunath**:  
+5. **Tanushree Manjunath**:  
    i. Urban Planning and Zonning  
    ii. Energy Distribution Networks  
    iii. Hospital Resource Management  
