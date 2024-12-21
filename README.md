@@ -95,6 +95,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
    iii. Event scheduling in Public Spaces
    iv. Sorting building height for skyline analysis
    v. Tourist Route Planning
+   
    **Portfolio**: [Insert link or description here]
 
 6. **Tanushree Manjunath**:  
