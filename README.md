@@ -59,8 +59,8 @@ Our team has identified such crucial issued with the idea of adressing these pro
 
 ### Business Cases Taken Up By Each Member : 
 ### 1. Sahana R :
-i.   Traffic signal synchronization across multiple intersections.
-ii.  Urban flooding.
+i.   Traffic signal synchronization across multiple intersections.                                                                                                                                                   
+ii.  Urban flooding.                                                                                                                                                                                                 
 iii. Waste Collection Routes
 iv.  Road Network Design
 v.   Water Pipeline Distribution
