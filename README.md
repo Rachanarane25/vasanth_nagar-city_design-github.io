@@ -47,7 +47,6 @@ To establish a functional, sustainable, and livable city within 5 years, with ro
 This is the plan for the city, however there are certain problems which could be solved in an engineered fashion which will help our city grow for the better!
 Our team has identified such crucial issued with the idea of adressing these problems and make our city a smarter version of itself.
 
-
 ## Team Details
 
 | **Name**                 | **USN**          |
@@ -60,7 +59,7 @@ Our team has identified such crucial issued with the idea of adressing these pro
 ## Business Cases Taken Up By Each Member:
 
 1. **Sahana R**:  
-   i.  Traffic signal synchronization across multiple intersections.  
+   i.   Traffic signal synchronization across multiple intersections.  
    ii.  Urban flooding.  
    iii. Waste collection routes.  
    iv.  Road network design.  
@@ -68,28 +67,29 @@ Our team has identified such crucial issued with the idea of adressing these pro
    **Portfolio**: [Insert link or description here]
 
 2. **Rachana P Rane**:  
-   i.
-   ii. 
-   iii.  
-   iv.  
-   v. 
+   i. Example case 1.  
+   ii. Example case 2.  
+   iii. Example case 3.  
+   iv. Example case 4.  
+   v. Example case 5.  
    **Portfolio**: [Insert link or description here]
 
 3. **Nishita P Jahagirdhar**:  
-    i.
-   ii. 
-   iii.  
-   iv.  
-   v. 
+   i. Example case 1.  
+   ii. Example case 2.  
+   iii. Example case 3.  
+   iv. Example case 4.  
+   v. Example case 5.  
    **Portfolio**: [Insert link or description here]
 
 4. **Tanushree Manjunath**:  
-    i.
-   ii. 
-   iii.  
-   iv.  
-   v. 
+   i. Example case 1.  
+   ii. Example case 2.  
+   iii. Example case 3.  
+   iv. Example case 4.  
+   v. Example case 5.  
    **Portfolio**: [Insert link or description here]
+
 
 
 This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city design.
