@@ -76,9 +76,9 @@ Our team has identified such crucial issued with the idea of adressing these pro
    ii.  Urban flooding.  
    iii. Waste collection routes.  
    iv.  Road network design.  
-   v.   Water pipeline distribution.  
+   v.   Water pipeline distribution.
+   
    **Portfolio**: [Tap!](https://sahana8866.github.io/rsahana.github.io/)
-   <a href="https://github.com/<username>/<repository>/wiki/Business-Cases" class="button">Business Cases</a>
 
 
 3. **Rachana P Rane**:  
