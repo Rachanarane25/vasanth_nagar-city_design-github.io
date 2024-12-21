@@ -96,11 +96,11 @@ Our team has identified such crucial issued with the idea of adressing these pro
    **Portfolio**: [Insert link or description here]
 
 4. **Tanushree Manjunath**:  
-   i. Urban Planning and Zonning  
-   ii. Energy Distribution Networks  
-   iii. Hospital Resource Management  
-   iv. Air Quality Monitoring  
-   v. Pedestrian and Bicycle Path Planning
+   i. Urban Planning and Zonning.  
+   ii. Energy Distribution Networks.  
+   iii. Hospital Resource Management.  
+   iv. Air Quality Monitoring.  
+   v. Pedestrian and Bicycle Path Planning.
     **Portfolio**: [Tap!](https://01fe23bcs120.github.io/)
 
 
