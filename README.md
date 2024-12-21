@@ -1,6 +1,8 @@
 # vasanth_nagar-city_design-github.io
 ### Introduction
 
+<a href="https://github.com/<username>/<repository>/wiki/Business-Cases" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Business Cases</a>
+
 The **Design and Analysis of Algorithms** course explores how algorithms are designed to solve real-world problems efficiently. It covers key topics like recursion, iteration, backtracking, and dynamic programming, and how to apply data structures such as trees, graphs, and heaps to solve complex problems in various domains.
 
 This course helps connect algorithm theory with practical applications, from optimizing routes in transportation systems to managing large datasets in business.
