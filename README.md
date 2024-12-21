@@ -13,7 +13,7 @@ The project focuses on identifying **business cases in faulty city designs** tha
 
 ### **Vasanth Nagar: A Smart City Vision**  
 
-![Project Screenshot](assets/image.png)
+![Project Screenshot](assets/VASANTH NAGAR YOUR EVERYDAY SMART CITY.png)
 
 **Overview:**  
 Vasanth Nagar (1500 sq km) will be a sustainable, tech-driven city built on an empty land, focused on smart infrastructure, green energy, and inclusive growth.  
