@@ -47,6 +47,38 @@ To establish a functional, sustainable, and livable city within 5 years, with ro
 This is the plan for the city, however there are certain problems which could be solved in an engineered fashion which will help our city grow for the better!
 Our team has identified such crucial issued with the idea of adressing these problems and make our city a smarter version of itself.
 
+## Team Details
+
+| **Name**                 | **USN**          |
+|--------------------------|------------------|
+| Sahana R                | 01fe23bcs138     |
+| Rachana P Rane          | 01fe23bcs150     |
+| Nishita P Jahagirdhar   | 01fe23bcs123     |
+| Tanushree Manjunath     | 01fe23bcs120     |
+
+## Business Cases Taken Up By Each Member:
+
+1. **Sahana R:**
+   - Traffic signal synchronization across multiple intersections.
+   - Urban flooding.
+   - Waste collection routes.
+   - Road network design.
+   - Water pipeline distribution.
+
+2. **Rachana P Rane:**
+   - Example case 1.
+   - Example case 2.
+   - Example case 3.
+
+3. **Nishita P Jahagirdhar:**
+   - Example case 1.
+   - Example case 2.
+   - Example case 3.
+
+4. **Tanushree Manjunath:**
+   - Example case 1.
+   - Example case 2.
+   - Example case 3.
 
 ### Team details
 | **Name**                 | **USN**          |
