@@ -46,6 +46,17 @@ Vasanth Nagar (1500 sq km) will be a sustainable, tech-driven city built on an e
 **Goal:**  
 To establish a functional, sustainable, and livable city within 5 years, with room for growth into a fully developed smart city over time.  
 
+
+| Area                        | Percentage of Total Land | Budget (in Crore) |
+|-----------------------------|--------------------------|-------------------|
+| Residential Zones            | 33.33%                   | ₹13,333           |
+| Commercial Zones             | 13.33%                   | ₹5,333            |
+| Industrial Zones             | 6.67%                    | ₹2,667            |
+| Recreation & Green Spaces    | 26.67%                   | ₹10,667           |
+| Infrastructure (Roads, etc.) | 20%                      | ₹8,000            |
+| **Total**                    | **100%**                 | **₹40,000**       |
+
+
 This is the plan for the city, however there are certain problems which could be solved in an engineered fashion which will help our city grow for the better!
 Our team has identified such crucial issued with the idea of adressing these problems and make our city a smarter version of itself.
 
