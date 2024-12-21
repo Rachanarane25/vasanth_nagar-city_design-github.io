@@ -96,12 +96,12 @@ Our team has identified such crucial issued with the idea of adressing these pro
    **Portfolio**: [Insert link or description here]
 
 4. **Tanushree Manjunath**:  
-   i. Example case 1.  
-   ii. Example case 2.  
-   iii. Example case 3.  
-   iv. Example case 4.  
-   v. Example case 5.  
-   **Portfolio**: [Insert link or description here]
+   i. Urban Planning and Zonning  
+   ii. Energy Distribution Networks  
+   iii. Hospital Resource Management  
+   iv. Air Quality Monitoring  
+   v. Pedestrian and Bicycle Path Planning
+   **Portfolio**: [Tap!](https://01fe23bcs120.github.io/)
 
 
 
