@@ -1,5 +1,5 @@
 # vasanth_nagar-city_design-github.io
-###Introduction
+### Introduction
 
 The **Design and Analysis of Algorithms** course explores how algorithms are designed to solve real-world problems efficiently. It covers key topics like recursion, iteration, backtracking, and dynamic programming, and how to apply data structures such as trees, graphs, and heaps to solve complex problems in various domains.
 
@@ -9,6 +9,41 @@ This course helps connect algorithm theory with practical applications, from opt
 
 The project focuses on identifying **business cases in faulty city designs** that require engineering solutions. The problem space was chosen based on inefficiencies in urban planning, and findings from the white paper highlighted issues in traffic, waste management, and infrastructure. Each team member works on specific business cases, proposing algorithmic solutions to address these challenges.
 
+
+
+### **Vasanth Nagar: A Smart City Vision**  
+
+**Overview:**  
+Vasanth Nagar (1500 sq km) will be a sustainable, tech-driven city built on an empty land, focused on smart infrastructure, green energy, and inclusive growth.  
+
+**Zoning:**  
+- **Residential (500 sq km):** Affordable housing and mid-range communities.  
+- **Commercial (200 sq km):** Offices, retail spaces, and tech parks.  
+- **Industrial (100 sq km):** Clean industries and manufacturing.  
+- **Recreation & Green Spaces (400 sq km):** Parks, lakes, nature reserves.  
+- **Infrastructure (300 sq km):** Roads, utilities, transport hubs.  
+
+**Initial Focus (5-Year Plan):**  
+1. **Basic Infrastructure:** Roads, metro, water systems, and power grids.  
+2. **Housing:** Affordable and eco-friendly residences.  
+3. **Smart Utilities:** Solar power, IoT-based water and waste management.  
+4. **Connectivity:** Public transport with EV buses and cycling lanes.  
+
+**Budget:**  
+- **Estimated Cost:** $40 billion (initial phase).  
+- **Funding:** Public-private partnerships, international loans, and government grants.  
+
+**Geography:**  
+- Create three artificial lakes (totaling 30 sq km) for water needs and recreation.  
+- Preserve natural terrain for tourism and greenery, dedicating 25% to parks and forests.  
+
+**Sustainability:**  
+- Solar farms and rainwater harvesting to reduce energy and water costs.  
+- Recycling and waste-to-energy plants to manage waste.  
+
+**Goal:**  
+To establish a functional, sustainable, and livable city within 5 years, with room for growth into a fully developed smart city over time.  
+ 
 ### Course Learning Reflections
 
 #### Problems in Nature
