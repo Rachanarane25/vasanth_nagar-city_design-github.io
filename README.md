@@ -43,7 +43,26 @@ Vasanth Nagar (1500 sq km) will be a sustainable, tech-driven city built on an e
 
 **Goal:**  
 To establish a functional, sustainable, and livable city within 5 years, with room for growth into a fully developed smart city over time.  
- 
+
+
+
+This is the plan for the city, however there are certain problems which could be solved in an engineered fashion which will help our city grow for the better!
+
+Our team has identified such crucial issued with the idea of adressing these problems and make our city a smarter version of itself.
+
+
+### Team details
+| **Name**                 | **USN**          |
+|--------------------------|------------------|
+| Sahana R                | 01fe23bcs138     |
+| Rachana P Rane          | 01fe23bcs150     |
+| Nishita P Jahagirdhar   | 01fe23bcs123     |
+| Tanushree Manjunath     | 01fe23bcs120     |
+
+
+
+
+
 ### Course Learning Reflections
 
 #### Problems in Nature
