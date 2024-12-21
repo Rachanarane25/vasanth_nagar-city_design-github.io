@@ -44,10 +44,7 @@ Vasanth Nagar (1500 sq km) will be a sustainable, tech-driven city built on an e
 **Goal:**  
 To establish a functional, sustainable, and livable city within 5 years, with room for growth into a fully developed smart city over time.  
 
-
-
 This is the plan for the city, however there are certain problems which could be solved in an engineered fashion which will help our city grow for the better!
-
 Our team has identified such crucial issued with the idea of adressing these problems and make our city a smarter version of itself.
 
 
@@ -60,36 +57,40 @@ Our team has identified such crucial issued with the idea of adressing these pro
 | Tanushree Manjunath     | 01fe23bcs120     |
 
 
+### Business Cases Taken Up By Each Member : 
+### 1. Sahana R :
+i.   Traffic signal synchronization across multiple intersections.
+ii.  Urban flooding.
+iii. Waste Collection Routes
+iv.  Road Network Design
+v.   Water Pipeline Distribution
+### Portfolio : 
 
 
+### 2. Racahana P Rane
+i.
+ii.
+iii.
+iv.
+v.
+### Portfolio :
+ 
+### 3. Nishita P Jahagirdhar
+i.
+ii.
+iii.
+iv.
+v.
+### Portfolio :
 
-### Course Learning Reflections
+### 4. Tanushree Manjunath
+i.
+ii.
+iii.
+iv.
+v.
+### Portfolio : 
 
-#### Problems in Nature
-Problems like **iteration**, **recursion**, and **backtracking** often arise in nature. These techniques are applied depending on the problem’s structure, such as recursive breakdowns for complex issues or backtracking for trial-and-error solutions.
 
-#### Space and Time Efficiency
-Understanding **space** and **time efficiency** is crucial for algorithm design. Optimizing both helps in reducing computational costs and memory usage, leading to faster and more scalable solutions.
-
-#### Design Principles
-Design principles like **divide and conquer**, **dynamic programming**, and **greedy algorithms** help in creating efficient, optimal solutions for various problems.
-
-#### Tree Data Structures
-**Binary search trees (BST)**, **AVL trees**, **heaps**, and **tries** are hierarchical data structures that provide fast data access and are essential for solving problems like searching, sorting, and managing large datasets.
-
-#### Array Query Algorithms
-Array query algorithms allow efficient searching, sorting, and data retrieval, applied in systems like databases and search engines.
-
-#### Tree vs. Graph Traversals
-**Trees** are traversed using **preorder**, **inorder**, and **postorder** methods, while **graphs** use **DFS** and **BFS** for efficient exploration. These techniques have diverse applications, such as network routing and resource allocation.
-
-#### Sorting and Searching Algorithms
-Algorithms like **quick sort**, **merge sort**, and **binary search** are fundamental for organizing and retrieving data. Each algorithm is selected based on the problem's constraints, such as size and performance requirements.
-
-#### Graph Algorithms
-Graph algorithms like **shortest path** and **spanning trees** are critical for applications in logistics, communication, and network design.
-
-#### Algorithm Design Techniques
-Techniques such as **greedy algorithms**, **divide and conquer**, and **dynamic programming** help solve problems efficiently. Knowing when to use each method is key to optimal problem-solving.
 
 This portfolio demonstrates how the theory and application of algorithms can help solve complex, real-world problems, particularly in urban planning and city design.
