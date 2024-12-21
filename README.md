@@ -94,10 +94,10 @@ Our team has identified such crucial issued with the idea of adressing these pro
    ii. Dispatching emergency Vehicles to incidents
    iii. Event scheduling in Public Spaces
    iv. Sorting building height for skyline analysis
-   v. Tourist Route Planning 
+   v. Tourist Route Planning
    **Portfolio**: [Insert link or description here]
 
-5. **Tanushree Manjunath**:  
+6. **Tanushree Manjunath**:  
    i. Urban Planning and Zonning.  
    ii. Energy Distribution Networks.  
    iii. Hospital Resource Management.  
